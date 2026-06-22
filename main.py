@@ -1,3 +1,4 @@
 import mediapipe as mp
-print(hasattr(mp, "tasks"))
-print(hasattr(mp, "solutions"))
+import cv2
+import numpy as np
+i
